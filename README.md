@@ -6,3 +6,5 @@ https://wobixdigital.com/order/get-order-data?id=28&withPayments=0
 Одельна страница
 
 https://wobixdigital.com/checkout/caf3a373e50cefbff2d80ad4fbfdceac
+
+btn btn-block buy-package btn-primary block-products__item-button
